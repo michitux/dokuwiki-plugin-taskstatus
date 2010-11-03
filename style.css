@@ -1,0 +1,15 @@
+div.dokuwiki strong.taskstatus_waitingfor {
+  color: #0A0082;
+}
+
+div.dokuwiki strong.taskstatus_next {
+  color: #F48200;
+}
+
+div.dokuwiki strong.taskstatus_urgent {
+  color: #D70000;
+}
+
+div.dokuwiki strong.taskstatus_open {
+  color: #007C06;
+}

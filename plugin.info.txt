@@ -1,0 +1,7 @@
+base   taskstatus
+author Michael Hamann
+email  michael@content-space.de
+date   2010-11-03
+name   taskstatus plugin
+desc   A plugin for displaying the status of tasks
+url    http://www.dokuwiki.org/plugin:taskstatus
