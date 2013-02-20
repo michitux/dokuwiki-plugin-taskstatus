@@ -16,7 +16,7 @@ if (!defined('DOKU_PLUGIN')) define('DOKU_PLUGIN',DOKU_INC.'lib/plugins/');
 require_once DOKU_PLUGIN.'syntax.php';
 
 class syntax_plugin_taskstatus extends DokuWiki_Syntax_Plugin {
-    var $patterns = array('NEXT', 'WAITINGFOR', 'URGENT', 'OPEN');
+    var $patterns = array('NEXT', 'WAITINGFOR', 'URGENT', 'OPEN', 'DONE');
     function getType() {
         return 'substition';
     }

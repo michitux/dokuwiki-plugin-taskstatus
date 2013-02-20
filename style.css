@@ -13,3 +13,7 @@ div.dokuwiki strong.taskstatus_urgent {
 div.dokuwiki strong.taskstatus_open {
   color: #007C06;
 }
+
+.dokuwiki strong.taskstatus_done {
+    color: #009900;
+}
